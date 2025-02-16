@@ -45,3 +45,11 @@ GET /name; params: name
 
 Example: GET /name?name=video.mkv
 ```
+
+## Использованные технологии
+
+PostgreSQL для сохранения данных
+
+Spring Boot для взаимодействия с СУБД и межсервисного взаимодействия
+
+Работоспособность тестировалась на JDK Eclipse Temurin 17
